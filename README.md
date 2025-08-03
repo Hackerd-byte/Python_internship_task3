@@ -1,4 +1,4 @@
-# Python_intership_task3
+# Python_internship_task3
 # 📊 PDF Report Generator - Internship Task 3
 
 This project generates an automated PDF report from a CSV dataset using Python. It includes summary statistics, data visualizations (bar charts), and tabular insights, suitable for real-world reporting needs.
